@@ -1,0 +1,975 @@
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_21_15 stored as values in memory (estimated size 306.0 B, free 433.1 MiB)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_21_14 stored as values in memory (estimated size 306.0 B, free 433.1 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_21_15 in memory on e713ad479ddf:39217 (size: 306.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_21_14 in memory on e713ad479ddf:39217 (size: 306.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO CodeGenerator: Code generated in 59.421875 ms
+25/09/05 09:46:58 INFO CodeGenerator: Code generated in 19.307291 ms
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_42 stored as values in memory (estimated size 46.0 B, free 433.1 MiB)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_0 stored as values in memory (estimated size 46.0 B, free 433.1 MiB)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_14 stored as values in memory (estimated size 46.0 B, free 433.1 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_42 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_3 stored as values in memory (estimated size 46.0 B, free 433.1 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_0 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_14 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_3 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_39 stored as values in memory (estimated size 46.0 B, free 433.1 MiB)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_15 stored as values in memory (estimated size 46.0 B, free 433.1 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_39 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_4 stored as values in memory (estimated size 46.0 B, free 433.1 MiB)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_2 stored as values in memory (estimated size 46.0 B, free 433.1 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_15 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_1 stored as values in memory (estimated size 46.0 B, free 433.1 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_4 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_2 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_1 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_12 stored as values in memory (estimated size 990.0 B, free 433.1 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_12 in memory on e713ad479ddf:39217 (size: 990.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO CodeGenerator: Code generated in 15.306167 ms
+25/09/05 09:46:58 INFO Executor: Finished task 4.0 in stage 6.0 (TID 12). 5067 bytes result sent to driver
+25/09/05 09:46:58 INFO Executor: Finished task 14.0 in stage 6.0 (TID 14). 5067 bytes result sent to driver
+25/09/05 09:46:58 INFO Executor: Finished task 15.0 in stage 6.0 (TID 15). 5067 bytes result sent to driver
+25/09/05 09:46:58 INFO Executor: Finished task 39.0 in stage 6.0 (TID 16). 5067 bytes result sent to driver
+25/09/05 09:46:58 INFO TaskSetManager: Starting task 5.0 in stage 6.0 (TID 22) (e713ad479ddf, executor driver, partition 5, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:58 INFO Executor: Finished task 2.0 in stage 6.0 (TID 20). 5067 bytes result sent to driver
+25/09/05 09:46:58 INFO Executor: Running task 5.0 in stage 6.0 (TID 22)
+25/09/05 09:46:58 INFO Executor: Finished task 12.0 in stage 6.0 (TID 13). 5215 bytes result sent to driver
+25/09/05 09:46:58 INFO Executor: Finished task 42.0 in stage 6.0 (TID 17). 5110 bytes result sent to driver
+25/09/05 09:46:58 INFO Executor: Finished task 0.0 in stage 6.0 (TID 18). 5110 bytes result sent to driver
+25/09/05 09:46:58 INFO Executor: Finished task 3.0 in stage 6.0 (TID 21). 5067 bytes result sent to driver
+25/09/05 09:46:58 INFO TaskSetManager: Starting task 6.0 in stage 6.0 (TID 23) (e713ad479ddf, executor driver, partition 6, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:58 INFO Executor: Finished task 1.0 in stage 6.0 (TID 19). 5067 bytes result sent to driver
+25/09/05 09:46:58 INFO Executor: Running task 6.0 in stage 6.0 (TID 23)
+25/09/05 09:46:58 INFO TaskSetManager: Starting task 7.0 in stage 6.0 (TID 24) (e713ad479ddf, executor driver, partition 7, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:58 INFO Executor: Running task 7.0 in stage 6.0 (TID 24)
+25/09/05 09:46:58 INFO TaskSetManager: Starting task 8.0 in stage 6.0 (TID 25) (e713ad479ddf, executor driver, partition 8, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:58 INFO Executor: Running task 8.0 in stage 6.0 (TID 25)
+25/09/05 09:46:58 INFO TaskSetManager: Starting task 9.0 in stage 6.0 (TID 26) (e713ad479ddf, executor driver, partition 9, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:58 INFO TaskSetManager: Starting task 10.0 in stage 6.0 (TID 27) (e713ad479ddf, executor driver, partition 10, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:58 INFO Executor: Running task 10.0 in stage 6.0 (TID 27)
+25/09/05 09:46:58 INFO Executor: Running task 9.0 in stage 6.0 (TID 26)
+25/09/05 09:46:58 INFO TaskSetManager: Starting task 11.0 in stage 6.0 (TID 28) (e713ad479ddf, executor driver, partition 11, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:58 INFO TaskSetManager: Finished task 4.0 in stage 6.0 (TID 12) in 507 ms on e713ad479ddf (executor driver) (1/50)
+25/09/05 09:46:58 INFO TaskSetManager: Finished task 2.0 in stage 6.0 (TID 20) in 507 ms on e713ad479ddf (executor driver) (2/50)
+25/09/05 09:46:58 INFO TaskSetManager: Finished task 15.0 in stage 6.0 (TID 15) in 509 ms on e713ad479ddf (executor driver) (3/50)
+25/09/05 09:46:58 INFO Executor: Running task 11.0 in stage 6.0 (TID 28)
+25/09/05 09:46:58 INFO TaskSetManager: Starting task 13.0 in stage 6.0 (TID 29) (e713ad479ddf, executor driver, partition 13, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:58 INFO TaskSetManager: Finished task 14.0 in stage 6.0 (TID 14) in 511 ms on e713ad479ddf (executor driver) (4/50)
+25/09/05 09:46:58 INFO Executor: Running task 13.0 in stage 6.0 (TID 29)
+25/09/05 09:46:58 INFO TaskSetManager: Starting task 16.0 in stage 6.0 (TID 30) (e713ad479ddf, executor driver, partition 16, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:58 INFO TaskSetManager: Starting task 17.0 in stage 6.0 (TID 31) (e713ad479ddf, executor driver, partition 17, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:58 INFO Executor: Running task 16.0 in stage 6.0 (TID 30)
+25/09/05 09:46:58 INFO TaskSetManager: Finished task 39.0 in stage 6.0 (TID 16) in 515 ms on e713ad479ddf (executor driver) (5/50)
+25/09/05 09:46:58 INFO TaskSetManager: Finished task 0.0 in stage 6.0 (TID 18) in 531 ms on e713ad479ddf (executor driver) (6/50)
+25/09/05 09:46:58 INFO TaskSetManager: Finished task 12.0 in stage 6.0 (TID 13) in 533 ms on e713ad479ddf (executor driver) (7/50)
+25/09/05 09:46:58 INFO TaskSetManager: Finished task 42.0 in stage 6.0 (TID 17) in 533 ms on e713ad479ddf (executor driver) (8/50)
+25/09/05 09:46:58 INFO Executor: Running task 17.0 in stage 6.0 (TID 31)
+25/09/05 09:46:58 INFO TaskSetManager: Finished task 3.0 in stage 6.0 (TID 21) in 536 ms on e713ad479ddf (executor driver) (9/50)
+25/09/05 09:46:58 INFO TaskSetManager: Finished task 1.0 in stage 6.0 (TID 19) in 542 ms on e713ad479ddf (executor driver) (10/50)
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 2 ms
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 2 ms
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_21_5 stored as values in memory (estimated size 46.0 B, free 432.6 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_21_5 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 1 ms
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_21_16 stored as values in memory (estimated size 46.0 B, free 432.6 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_21_16 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_5 stored as values in memory (estimated size 46.0 B, free 432.6 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_5 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO Executor: Finished task 5.0 in stage 6.0 (TID 22). 5067 bytes result sent to driver
+25/09/05 09:46:58 INFO TaskSetManager: Finished task 5.0 in stage 6.0 (TID 22) in 150 ms on e713ad479ddf (executor driver) (11/50)
+25/09/05 09:46:58 INFO TaskSetManager: Starting task 18.0 in stage 6.0 (TID 32) (e713ad479ddf, executor driver, partition 18, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_21_8 stored as values in memory (estimated size 46.0 B, free 432.6 MiB)
+25/09/05 09:46:58 INFO Executor: Running task 18.0 in stage 6.0 (TID 32)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_21_8 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_21_6 stored as values in memory (estimated size 46.0 B, free 432.7 MiB)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_16 stored as values in memory (estimated size 46.0 B, free 432.7 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_16 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_21_6 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO Executor: Finished task 16.0 in stage 6.0 (TID 30). 5067 bytes result sent to driver
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_6 stored as values in memory (estimated size 46.0 B, free 432.7 MiB)
+25/09/05 09:46:58 INFO TaskSetManager: Starting task 19.0 in stage 6.0 (TID 33) (e713ad479ddf, executor driver, partition 19, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_21_10 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_6 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_21_10 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_8 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_8 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO TaskSetManager: Finished task 16.0 in stage 6.0 (TID 30) in 169 ms on e713ad479ddf (executor driver) (12/50)
+25/09/05 09:46:58 INFO Executor: Running task 19.0 in stage 6.0 (TID 33)
+25/09/05 09:46:58 INFO Executor: Finished task 6.0 in stage 6.0 (TID 23). 5067 bytes result sent to driver
+25/09/05 09:46:58 INFO TaskSetManager: Starting task 20.0 in stage 6.0 (TID 34) (e713ad479ddf, executor driver, partition 20, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:58 INFO TaskSetManager: Finished task 6.0 in stage 6.0 (TID 23) in 187 ms on e713ad479ddf (executor driver) (13/50)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_21_11 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_21_11 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO Executor: Finished task 8.0 in stage 6.0 (TID 25). 5067 bytes result sent to driver
+25/09/05 09:46:58 INFO Executor: Running task 20.0 in stage 6.0 (TID 34)
+25/09/05 09:46:58 INFO TaskSetManager: Starting task 21.0 in stage 6.0 (TID 35) (e713ad479ddf, executor driver, partition 21, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_10 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:58 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_10 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO Executor: Running task 21.0 in stage 6.0 (TID 35)
+25/09/05 09:46:58 INFO TaskSetManager: Finished task 8.0 in stage 6.0 (TID 25) in 198 ms on e713ad479ddf (executor driver) (14/50)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_21_13 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_21_13 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_11 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_11 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_21_17 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_21_17 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO Executor: Finished task 10.0 in stage 6.0 (TID 27). 5110 bytes result sent to driver
+25/09/05 09:46:58 INFO TaskSetManager: Starting task 22.0 in stage 6.0 (TID 36) (e713ad479ddf, executor driver, partition 22, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:58 INFO Executor: Finished task 11.0 in stage 6.0 (TID 28). 5067 bytes result sent to driver
+25/09/05 09:46:58 INFO Executor: Running task 22.0 in stage 6.0 (TID 36)
+25/09/05 09:46:58 INFO TaskSetManager: Finished task 11.0 in stage 6.0 (TID 28) in 221 ms on e713ad479ddf (executor driver) (15/50)
+25/09/05 09:46:58 INFO TaskSetManager: Finished task 10.0 in stage 6.0 (TID 27) in 223 ms on e713ad479ddf (executor driver) (16/50)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_21_7 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:58 INFO TaskSetManager: Starting task 23.0 in stage 6.0 (TID 37) (e713ad479ddf, executor driver, partition 23, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_17 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_17 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_21_7 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO Executor: Running task 23.0 in stage 6.0 (TID 37)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_21_9 stored as values in memory (estimated size 46.0 B, free 433.0 MiB)
+25/09/05 09:46:58 INFO Executor: Finished task 17.0 in stage 6.0 (TID 31). 5067 bytes result sent to driver
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_21_9 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_13 stored as values in memory (estimated size 46.0 B, free 433.0 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_13 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO TaskSetManager: Starting task 24.0 in stage 6.0 (TID 38) (e713ad479ddf, executor driver, partition 24, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:58 INFO TaskSetManager: Finished task 17.0 in stage 6.0 (TID 31) in 232 ms on e713ad479ddf (executor driver) (17/50)
+25/09/05 09:46:58 INFO MemoryStore: Block rdd_25_7 stored as values in memory (estimated size 46.0 B, free 433.0 MiB)
+25/09/05 09:46:58 INFO BlockManagerInfo: Added rdd_25_7 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:58 INFO Executor: Finished task 13.0 in stage 6.0 (TID 29). 5067 bytes result sent to driver
+25/09/05 09:46:58 INFO Executor: Running task 24.0 in stage 6.0 (TID 38)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 13.0 in stage 6.0 (TID 29) in 257 ms on e713ad479ddf (executor driver) (18/50)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO Executor: Finished task 7.0 in stage 6.0 (TID 24). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 25.0 in stage 6.0 (TID 39) (e713ad479ddf, executor driver, partition 25, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 26.0 in stage 6.0 (TID 40) (e713ad479ddf, executor driver, partition 26, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_9 stored as values in memory (estimated size 46.0 B, free 433.0 MiB)
+25/09/05 09:46:59 INFO Executor: Running task 26.0 in stage 6.0 (TID 40)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 7.0 in stage 6.0 (TID 24) in 279 ms on e713ad479ddf (executor driver) (19/50)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_9 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO Executor: Running task 25.0 in stage 6.0 (TID 39)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_18 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_18 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO Executor: Finished task 9.0 in stage 6.0 (TID 26). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 27.0 in stage 6.0 (TID 41) (e713ad479ddf, executor driver, partition 27, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_18 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_18 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 9.0 in stage 6.0 (TID 26) in 291 ms on e713ad479ddf (executor driver) (20/50)
+25/09/05 09:46:59 INFO Executor: Finished task 18.0 in stage 6.0 (TID 32). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Running task 27.0 in stage 6.0 (TID 41)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 28.0 in stage 6.0 (TID 42) (e713ad479ddf, executor driver, partition 28, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 28.0 in stage 6.0 (TID 42)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 18.0 in stage 6.0 (TID 32) in 155 ms on e713ad479ddf (executor driver) (21/50)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 1 ms
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_21 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_21 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_23 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_23 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_22 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_22 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_20 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_20 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_22 stored as values in memory (estimated size 46.0 B, free 432.7 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_22 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO Executor: Finished task 22.0 in stage 6.0 (TID 36). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 22.0 in stage 6.0 (TID 36) in 121 ms on e713ad479ddf (executor driver) (22/50)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 29.0 in stage 6.0 (TID 43) (e713ad479ddf, executor driver, partition 29, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 29.0 in stage 6.0 (TID 43)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_23 stored as values in memory (estimated size 46.0 B, free 432.7 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_23 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_21 stored as values in memory (estimated size 46.0 B, free 432.7 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_21 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_20 stored as values in memory (estimated size 46.0 B, free 432.7 MiB)
+25/09/05 09:46:59 INFO Executor: Finished task 23.0 in stage 6.0 (TID 37). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_24 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_20 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO Executor: Finished task 21.0 in stage 6.0 (TID 35). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 30.0 in stage 6.0 (TID 44) (e713ad479ddf, executor driver, partition 30, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 30.0 in stage 6.0 (TID 44)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 23.0 in stage 6.0 (TID 37) in 122 ms on e713ad479ddf (executor driver) (23/50)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_24 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 31.0 in stage 6.0 (TID 45) (e713ad479ddf, executor driver, partition 31, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_19 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO Executor: Running task 31.0 in stage 6.0 (TID 45)
+25/09/05 09:46:59 INFO Executor: Finished task 20.0 in stage 6.0 (TID 34). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 32.0 in stage 6.0 (TID 46) (e713ad479ddf, executor driver, partition 32, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_19 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 20.0 in stage 6.0 (TID 34) in 175 ms on e713ad479ddf (executor driver) (24/50)
+25/09/05 09:46:59 INFO Executor: Running task 32.0 in stage 6.0 (TID 46)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 21.0 in stage 6.0 (TID 35) in 171 ms on e713ad479ddf (executor driver) (25/50)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_24 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_19 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_24 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_19 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO Executor: Finished task 24.0 in stage 6.0 (TID 38). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 33.0 in stage 6.0 (TID 47) (e713ad479ddf, executor driver, partition 33, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_25 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:59 INFO Executor: Running task 33.0 in stage 6.0 (TID 47)
+25/09/05 09:46:59 INFO Executor: Finished task 19.0 in stage 6.0 (TID 33). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_25 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_26 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 34.0 in stage 6.0 (TID 48) (e713ad479ddf, executor driver, partition 34, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_26 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_25 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 24.0 in stage 6.0 (TID 38) in 138 ms on e713ad479ddf (executor driver) (26/50)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_25 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO Executor: Running task 34.0 in stage 6.0 (TID 48)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 19.0 in stage 6.0 (TID 33) in 205 ms on e713ad479ddf (executor driver) (27/50)
+25/09/05 09:46:59 INFO Executor: Finished task 25.0 in stage 6.0 (TID 39). 5110 bytes result sent to driver
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_26 stored as values in memory (estimated size 46.0 B, free 433.0 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_27 stored as values in memory (estimated size 46.0 B, free 433.0 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_26 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_27 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 35.0 in stage 6.0 (TID 49) (e713ad479ddf, executor driver, partition 35, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 35.0 in stage 6.0 (TID 49)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 25.0 in stage 6.0 (TID 39) in 124 ms on e713ad479ddf (executor driver) (28/50)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO Executor: Finished task 26.0 in stage 6.0 (TID 40). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 36.0 in stage 6.0 (TID 50) (e713ad479ddf, executor driver, partition 36, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 26.0 in stage 6.0 (TID 40) in 120 ms on e713ad479ddf (executor driver) (29/50)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_28 stored as values in memory (estimated size 46.0 B, free 433.0 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_28 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO Executor: Running task 36.0 in stage 6.0 (TID 50)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 1 ms
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_27 stored as values in memory (estimated size 46.0 B, free 433.0 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_27 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO Executor: Finished task 27.0 in stage 6.0 (TID 41). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 37.0 in stage 6.0 (TID 51) (e713ad479ddf, executor driver, partition 37, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 37.0 in stage 6.0 (TID 51)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 27.0 in stage 6.0 (TID 41) in 125 ms on e713ad479ddf (executor driver) (30/50)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_28 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_28 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO Executor: Finished task 28.0 in stage 6.0 (TID 42). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 38.0 in stage 6.0 (TID 52) (e713ad479ddf, executor driver, partition 38, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 28.0 in stage 6.0 (TID 42) in 131 ms on e713ad479ddf (executor driver) (31/50)
+25/09/05 09:46:59 INFO Executor: Running task 38.0 in stage 6.0 (TID 52)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_30 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_30 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_31 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_29 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_31 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_29 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_34 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_34 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_30 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_30 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_31 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_29 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_31 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO Executor: Finished task 30.0 in stage 6.0 (TID 44). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 40.0 in stage 6.0 (TID 53) (e713ad479ddf, executor driver, partition 40, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_29 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO Executor: Running task 40.0 in stage 6.0 (TID 53)
+25/09/05 09:46:59 INFO Executor: Finished task 31.0 in stage 6.0 (TID 45). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 29.0 in stage 6.0 (TID 43). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 41.0 in stage 6.0 (TID 54) (e713ad479ddf, executor driver, partition 41, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 41.0 in stage 6.0 (TID 54)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_34 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_34 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 29.0 in stage 6.0 (TID 43) in 123 ms on e713ad479ddf (executor driver) (32/50)
+25/09/05 09:46:59 INFO Executor: Finished task 34.0 in stage 6.0 (TID 48). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 30.0 in stage 6.0 (TID 44) in 120 ms on e713ad479ddf (executor driver) (33/50)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 31.0 in stage 6.0 (TID 45) in 121 ms on e713ad479ddf (executor driver) (34/50)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_32 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_32 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 43.0 in stage 6.0 (TID 55) (e713ad479ddf, executor driver, partition 43, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 43.0 in stage 6.0 (TID 55)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_32 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_32 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO Executor: Finished task 32.0 in stage 6.0 (TID 46). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 44.0 in stage 6.0 (TID 56) (e713ad479ddf, executor driver, partition 44, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 45.0 in stage 6.0 (TID 57) (e713ad479ddf, executor driver, partition 45, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 34.0 in stage 6.0 (TID 48) in 104 ms on e713ad479ddf (executor driver) (35/50)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 32.0 in stage 6.0 (TID 46) in 129 ms on e713ad479ddf (executor driver) (36/50)
+25/09/05 09:46:59 INFO Executor: Running task 44.0 in stage 6.0 (TID 56)
+25/09/05 09:46:59 INFO Executor: Running task 45.0 in stage 6.0 (TID 57)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_36 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_36 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_35 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_35 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_36 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_36 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO Executor: Finished task 36.0 in stage 6.0 (TID 50). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 46.0 in stage 6.0 (TID 58) (e713ad479ddf, executor driver, partition 46, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 46.0 in stage 6.0 (TID 58)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 36.0 in stage 6.0 (TID 50) in 118 ms on e713ad479ddf (executor driver) (37/50)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_33 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_33 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_35 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_35 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 3 ms
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO Executor: Finished task 35.0 in stage 6.0 (TID 49). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 47.0 in stage 6.0 (TID 59) (e713ad479ddf, executor driver, partition 47, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 35.0 in stage 6.0 (TID 49) in 159 ms on e713ad479ddf (executor driver) (38/50)
+25/09/05 09:46:59 INFO Executor: Running task 47.0 in stage 6.0 (TID 59)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_37 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_37 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_33 stored as values in memory (estimated size 46.0 B, free 432.7 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_33 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO Executor: Finished task 33.0 in stage 6.0 (TID 47). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 48.0 in stage 6.0 (TID 60) (e713ad479ddf, executor driver, partition 48, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 48.0 in stage 6.0 (TID 60)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 33.0 in stage 6.0 (TID 47) in 190 ms on e713ad479ddf (executor driver) (39/50)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_41 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_41 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_37 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_37 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO Executor: Finished task 37.0 in stage 6.0 (TID 51). 5110 bytes result sent to driver
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_41 stored as values in memory (estimated size 46.0 B, free 432.6 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_41 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 49.0 in stage 6.0 (TID 61) (e713ad479ddf, executor driver, partition 49, PROCESS_LOCAL, 7615 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 37.0 in stage 6.0 (TID 51) in 188 ms on e713ad479ddf (executor driver) (40/50)
+25/09/05 09:46:59 INFO Executor: Finished task 41.0 in stage 6.0 (TID 54). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:46:59 INFO Executor: Running task 49.0 in stage 6.0 (TID 61)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 41.0 in stage 6.0 (TID 54) in 143 ms on e713ad479ddf (executor driver) (41/50)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_38 stored as values in memory (estimated size 46.0 B, free 432.6 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_38 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_43 stored as values in memory (estimated size 46.0 B, free 432.7 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_43 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_43 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_45 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_44 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_43 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_40 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_38 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_45 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_44 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_40 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO Executor: Finished task 43.0 in stage 6.0 (TID 55). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_38 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 43.0 in stage 6.0 (TID 55) in 168 ms on e713ad479ddf (executor driver) (42/50)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_45 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_45 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO Executor: Finished task 38.0 in stage 6.0 (TID 52). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 38.0 in stage 6.0 (TID 52) in 221 ms on e713ad479ddf (executor driver) (43/50)
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Getting 0 (0.0 B) non-empty blocks including 0 (0.0 B) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:46:59 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 2 ms
+25/09/05 09:46:59 INFO Executor: Finished task 45.0 in stage 6.0 (TID 57). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_44 stored as values in memory (estimated size 46.0 B, free 432.8 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_44 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 45.0 in stage 6.0 (TID 57) in 171 ms on e713ad479ddf (executor driver) (44/50)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_48 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_40 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_40 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_46 stored as values in memory (estimated size 46.0 B, free 432.9 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_46 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_47 stored as values in memory (estimated size 46.0 B, free 433.0 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_48 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_47 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO Executor: Finished task 44.0 in stage 6.0 (TID 56). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 40.0 in stage 6.0 (TID 53). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 40.0 in stage 6.0 (TID 53) in 200 ms on e713ad479ddf (executor driver) (45/50)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_46 stored as values in memory (estimated size 46.0 B, free 433.0 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_46 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 44.0 in stage 6.0 (TID 56) in 188 ms on e713ad479ddf (executor driver) (46/50)
+25/09/05 09:46:59 INFO Executor: Finished task 46.0 in stage 6.0 (TID 58). 5024 bytes result sent to driver
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_47 stored as values in memory (estimated size 46.0 B, free 433.0 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_48 stored as values in memory (estimated size 46.0 B, free 433.1 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_48 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 46.0 in stage 6.0 (TID 58) in 156 ms on e713ad479ddf (executor driver) (47/50)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_21_49 stored as values in memory (estimated size 46.0 B, free 433.1 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_47 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_21_49 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO Executor: Finished task 47.0 in stage 6.0 (TID 59). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 48.0 in stage 6.0 (TID 60). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 47.0 in stage 6.0 (TID 59) in 127 ms on e713ad479ddf (executor driver) (48/50)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 48.0 in stage 6.0 (TID 60) in 109 ms on e713ad479ddf (executor driver) (49/50)
+25/09/05 09:46:59 INFO MemoryStore: Block rdd_25_49 stored as values in memory (estimated size 46.0 B, free 433.1 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added rdd_25_49 in memory on e713ad479ddf:39217 (size: 46.0 B, free: 434.2 MiB)
+25/09/05 09:46:59 INFO Executor: Finished task 49.0 in stage 6.0 (TID 61). 5067 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 49.0 in stage 6.0 (TID 61) in 80 ms on e713ad479ddf (executor driver) (50/50)
+25/09/05 09:46:59 INFO TaskSchedulerImpl: Removed TaskSet 6.0, whose tasks have all completed, from pool 
+25/09/05 09:46:59 INFO DAGScheduler: ResultStage 6 ($anonfun$recordDeltaOperationInternal$1 at DatabricksLogging.scala:128) finished in 1.188 s
+25/09/05 09:46:59 INFO DAGScheduler: Job 4 is finished. Cancelling potential speculative or zombie tasks for this job
+25/09/05 09:46:59 INFO TaskSchedulerImpl: Killing all running tasks in stage 6: Stage finished
+25/09/05 09:46:59 INFO DAGScheduler: Job 4 finished: $anonfun$recordDeltaOperationInternal$1 at DatabricksLogging.scala:128, took 1.194358 s
+25/09/05 09:46:59 INFO CodeGenerator: Code generated in 6.482667 ms
+25/09/05 09:46:59 INFO Snapshot: [tableId=c9fb70e3-9439-4f54-a63a-e39d89a6b948] DELTA: Compute snapshot for version: 4
+25/09/05 09:46:59 INFO CodeGenerator: Code generated in 13.347958 ms
+25/09/05 09:46:59 INFO DAGScheduler: Registering RDD 30 ($anonfun$recordDeltaOperationInternal$1 at DatabricksLogging.scala:128) as input to shuffle 2
+25/09/05 09:46:59 INFO DAGScheduler: Got map stage job 5 ($anonfun$recordDeltaOperationInternal$1 at DatabricksLogging.scala:128) with 50 output partitions
+25/09/05 09:46:59 INFO DAGScheduler: Final stage: ShuffleMapStage 8 ($anonfun$recordDeltaOperationInternal$1 at DatabricksLogging.scala:128)
+25/09/05 09:46:59 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 7)
+25/09/05 09:46:59 INFO DAGScheduler: Missing parents: List()
+25/09/05 09:46:59 INFO DAGScheduler: Submitting ShuffleMapStage 8 (MapPartitionsRDD[30] at $anonfun$recordDeltaOperationInternal$1 at DatabricksLogging.scala:128), which has no missing parents
+25/09/05 09:46:59 INFO MemoryStore: Block broadcast_9 stored as values in memory (estimated size 599.3 KiB, free 432.5 MiB)
+25/09/05 09:46:59 INFO MemoryStore: Block broadcast_9_piece0 stored as bytes in memory (estimated size 137.6 KiB, free 432.3 MiB)
+25/09/05 09:46:59 INFO BlockManagerInfo: Added broadcast_9_piece0 in memory on e713ad479ddf:39217 (size: 137.6 KiB, free: 434.0 MiB)
+25/09/05 09:46:59 INFO SparkContext: Created broadcast 9 from broadcast at DAGScheduler.scala:1585
+25/09/05 09:46:59 INFO DAGScheduler: Submitting 50 missing tasks from ShuffleMapStage 8 (MapPartitionsRDD[30] at $anonfun$recordDeltaOperationInternal$1 at DatabricksLogging.scala:128) (first 15 tasks are for partitions Vector(0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14))
+25/09/05 09:46:59 INFO TaskSchedulerImpl: Adding task set 8.0 with 50 tasks resource profile 0
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 0.0 in stage 8.0 (TID 62) (e713ad479ddf, executor driver, partition 0, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 1.0 in stage 8.0 (TID 63) (e713ad479ddf, executor driver, partition 1, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 2.0 in stage 8.0 (TID 64) (e713ad479ddf, executor driver, partition 2, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 3.0 in stage 8.0 (TID 65) (e713ad479ddf, executor driver, partition 3, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 4.0 in stage 8.0 (TID 66) (e713ad479ddf, executor driver, partition 4, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 5.0 in stage 8.0 (TID 67) (e713ad479ddf, executor driver, partition 5, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 6.0 in stage 8.0 (TID 68) (e713ad479ddf, executor driver, partition 6, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 7.0 in stage 8.0 (TID 69) (e713ad479ddf, executor driver, partition 7, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 8.0 in stage 8.0 (TID 70) (e713ad479ddf, executor driver, partition 8, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 9.0 in stage 8.0 (TID 71) (e713ad479ddf, executor driver, partition 9, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 1.0 in stage 8.0 (TID 63)
+25/09/05 09:46:59 INFO Executor: Running task 0.0 in stage 8.0 (TID 62)
+25/09/05 09:46:59 INFO Executor: Running task 6.0 in stage 8.0 (TID 68)
+25/09/05 09:46:59 INFO Executor: Running task 2.0 in stage 8.0 (TID 64)
+25/09/05 09:46:59 INFO Executor: Running task 8.0 in stage 8.0 (TID 70)
+25/09/05 09:46:59 INFO Executor: Running task 7.0 in stage 8.0 (TID 69)
+25/09/05 09:46:59 INFO Executor: Running task 9.0 in stage 8.0 (TID 71)
+25/09/05 09:46:59 INFO Executor: Running task 3.0 in stage 8.0 (TID 65)
+25/09/05 09:46:59 INFO Executor: Running task 4.0 in stage 8.0 (TID 66)
+25/09/05 09:46:59 INFO Executor: Running task 5.0 in stage 8.0 (TID 67)
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_4 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_9 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_0 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_5 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_3 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_8 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_1 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_2 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_6 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_7 locally
+25/09/05 09:46:59 INFO CodeGenerator: Code generated in 13.9975 ms
+25/09/05 09:46:59 INFO CodeGenerator: Code generated in 1.741666 ms
+25/09/05 09:46:59 INFO CodeGenerator: Code generated in 2.900208 ms
+25/09/05 09:46:59 INFO CodeGenerator: Code generated in 4.83875 ms
+25/09/05 09:46:59 INFO CodeGenerator: Code generated in 3.331708 ms
+25/09/05 09:46:59 INFO CodeGenerator: Code generated in 1.879 ms
+25/09/05 09:46:59 INFO CodeGenerator: Code generated in 1.724125 ms
+25/09/05 09:46:59 INFO Executor: Finished task 5.0 in stage 8.0 (TID 67). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 2.0 in stage 8.0 (TID 64). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 6.0 in stage 8.0 (TID 68). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 1.0 in stage 8.0 (TID 63). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 10.0 in stage 8.0 (TID 72) (e713ad479ddf, executor driver, partition 10, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Finished task 7.0 in stage 8.0 (TID 69). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 11.0 in stage 8.0 (TID 73) (e713ad479ddf, executor driver, partition 11, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 10.0 in stage 8.0 (TID 72)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 12.0 in stage 8.0 (TID 74) (e713ad479ddf, executor driver, partition 12, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 11.0 in stage 8.0 (TID 73)
+25/09/05 09:46:59 INFO Executor: Finished task 8.0 in stage 8.0 (TID 70). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 13.0 in stage 8.0 (TID 75) (e713ad479ddf, executor driver, partition 13, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Finished task 9.0 in stage 8.0 (TID 71). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 0.0 in stage 8.0 (TID 62). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Running task 12.0 in stage 8.0 (TID 74)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 14.0 in stage 8.0 (TID 76) (e713ad479ddf, executor driver, partition 14, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 15.0 in stage 8.0 (TID 77) (e713ad479ddf, executor driver, partition 15, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 6.0 in stage 8.0 (TID 68) in 144 ms on e713ad479ddf (executor driver) (1/50)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 2.0 in stage 8.0 (TID 64) in 145 ms on e713ad479ddf (executor driver) (2/50)
+25/09/05 09:46:59 INFO Executor: Running task 14.0 in stage 8.0 (TID 76)
+25/09/05 09:46:59 INFO Executor: Running task 13.0 in stage 8.0 (TID 75)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 16.0 in stage 8.0 (TID 78) (e713ad479ddf, executor driver, partition 16, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 15.0 in stage 8.0 (TID 77)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 17.0 in stage 8.0 (TID 79) (e713ad479ddf, executor driver, partition 17, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 17.0 in stage 8.0 (TID 79)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 1.0 in stage 8.0 (TID 63) in 147 ms on e713ad479ddf (executor driver) (3/50)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 8.0 in stage 8.0 (TID 70) in 147 ms on e713ad479ddf (executor driver) (4/50)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 5.0 in stage 8.0 (TID 67) in 147 ms on e713ad479ddf (executor driver) (5/50)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 9.0 in stage 8.0 (TID 71) in 148 ms on e713ad479ddf (executor driver) (6/50)
+25/09/05 09:46:59 INFO Executor: Running task 16.0 in stage 8.0 (TID 78)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 0.0 in stage 8.0 (TID 62) in 149 ms on e713ad479ddf (executor driver) (7/50)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 7.0 in stage 8.0 (TID 69) in 149 ms on e713ad479ddf (executor driver) (8/50)
+25/09/05 09:46:59 INFO Executor: Finished task 3.0 in stage 8.0 (TID 65). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 18.0 in stage 8.0 (TID 80) (e713ad479ddf, executor driver, partition 18, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 18.0 in stage 8.0 (TID 80)
+25/09/05 09:46:59 INFO Executor: Finished task 4.0 in stage 8.0 (TID 66). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 19.0 in stage 8.0 (TID 81) (e713ad479ddf, executor driver, partition 19, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 3.0 in stage 8.0 (TID 65) in 155 ms on e713ad479ddf (executor driver) (9/50)
+25/09/05 09:46:59 INFO Executor: Running task 19.0 in stage 8.0 (TID 81)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 4.0 in stage 8.0 (TID 66) in 164 ms on e713ad479ddf (executor driver) (10/50)
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_17 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_14 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_10 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_11 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_16 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_19 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_13 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_18 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_15 locally
+25/09/05 09:46:59 INFO Executor: Finished task 10.0 in stage 8.0 (TID 72). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_12 locally
+25/09/05 09:46:59 INFO Executor: Finished task 14.0 in stage 8.0 (TID 76). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 16.0 in stage 8.0 (TID 78). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 20.0 in stage 8.0 (TID 82) (e713ad479ddf, executor driver, partition 20, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 21.0 in stage 8.0 (TID 83) (e713ad479ddf, executor driver, partition 21, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 20.0 in stage 8.0 (TID 82)
+25/09/05 09:46:59 INFO Executor: Running task 21.0 in stage 8.0 (TID 83)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 22.0 in stage 8.0 (TID 84) (e713ad479ddf, executor driver, partition 22, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 16.0 in stage 8.0 (TID 78) in 73 ms on e713ad479ddf (executor driver) (11/50)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 14.0 in stage 8.0 (TID 76) in 75 ms on e713ad479ddf (executor driver) (12/50)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 10.0 in stage 8.0 (TID 72) in 77 ms on e713ad479ddf (executor driver) (13/50)
+25/09/05 09:46:59 INFO Executor: Finished task 15.0 in stage 8.0 (TID 77). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 23.0 in stage 8.0 (TID 85) (e713ad479ddf, executor driver, partition 23, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 15.0 in stage 8.0 (TID 77) in 76 ms on e713ad479ddf (executor driver) (14/50)
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_20 locally
+25/09/05 09:46:59 INFO Executor: Running task 23.0 in stage 8.0 (TID 85)
+25/09/05 09:46:59 INFO Executor: Running task 22.0 in stage 8.0 (TID 84)
+25/09/05 09:46:59 INFO Executor: Finished task 17.0 in stage 8.0 (TID 79). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 19.0 in stage 8.0 (TID 81). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 24.0 in stage 8.0 (TID 86) (e713ad479ddf, executor driver, partition 24, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Finished task 12.0 in stage 8.0 (TID 74). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 13.0 in stage 8.0 (TID 75). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Running task 24.0 in stage 8.0 (TID 86)
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_23 locally
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 25.0 in stage 8.0 (TID 87) (e713ad479ddf, executor driver, partition 25, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 26.0 in stage 8.0 (TID 88) (e713ad479ddf, executor driver, partition 26, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 26.0 in stage 8.0 (TID 88)
+25/09/05 09:46:59 INFO Executor: Finished task 18.0 in stage 8.0 (TID 80). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Running task 25.0 in stage 8.0 (TID 87)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 13.0 in stage 8.0 (TID 75) in 88 ms on e713ad479ddf (executor driver) (15/50)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 12.0 in stage 8.0 (TID 74) in 88 ms on e713ad479ddf (executor driver) (16/50)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 17.0 in stage 8.0 (TID 79) in 96 ms on e713ad479ddf (executor driver) (17/50)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 27.0 in stage 8.0 (TID 89) (e713ad479ddf, executor driver, partition 27, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 27.0 in stage 8.0 (TID 89)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 28.0 in stage 8.0 (TID 90) (e713ad479ddf, executor driver, partition 28, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 28.0 in stage 8.0 (TID 90)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 19.0 in stage 8.0 (TID 81) in 95 ms on e713ad479ddf (executor driver) (18/50)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 18.0 in stage 8.0 (TID 80) in 97 ms on e713ad479ddf (executor driver) (19/50)
+25/09/05 09:46:59 INFO Executor: Finished task 11.0 in stage 8.0 (TID 73). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 20.0 in stage 8.0 (TID 82). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 11.0 in stage 8.0 (TID 73) in 109 ms on e713ad479ddf (executor driver) (20/50)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 29.0 in stage 8.0 (TID 91) (e713ad479ddf, executor driver, partition 29, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 30.0 in stage 8.0 (TID 92) (e713ad479ddf, executor driver, partition 30, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 30.0 in stage 8.0 (TID 92)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 20.0 in stage 8.0 (TID 82) in 41 ms on e713ad479ddf (executor driver) (21/50)
+25/09/05 09:46:59 INFO Executor: Running task 29.0 in stage 8.0 (TID 91)
+25/09/05 09:46:59 INFO Executor: Finished task 23.0 in stage 8.0 (TID 85). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 31.0 in stage 8.0 (TID 93) (e713ad479ddf, executor driver, partition 31, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 31.0 in stage 8.0 (TID 93)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 23.0 in stage 8.0 (TID 85) in 44 ms on e713ad479ddf (executor driver) (22/50)
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_25 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_22 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_27 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_24 locally
+25/09/05 09:46:59 INFO Executor: Finished task 25.0 in stage 8.0 (TID 87). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 32.0 in stage 8.0 (TID 94) (e713ad479ddf, executor driver, partition 32, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_26 locally
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 25.0 in stage 8.0 (TID 87) in 68 ms on e713ad479ddf (executor driver) (23/50)
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_21 locally
+25/09/05 09:46:59 INFO Executor: Running task 32.0 in stage 8.0 (TID 94)
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_30 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_31 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_29 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_28 locally
+25/09/05 09:46:59 INFO Executor: Finished task 27.0 in stage 8.0 (TID 89). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 33.0 in stage 8.0 (TID 95) (e713ad479ddf, executor driver, partition 33, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 27.0 in stage 8.0 (TID 89) in 70 ms on e713ad479ddf (executor driver) (24/50)
+25/09/05 09:46:59 INFO Executor: Running task 33.0 in stage 8.0 (TID 95)
+25/09/05 09:46:59 INFO Executor: Finished task 22.0 in stage 8.0 (TID 84). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 24.0 in stage 8.0 (TID 86). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 26.0 in stage 8.0 (TID 88). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 21.0 in stage 8.0 (TID 83). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 34.0 in stage 8.0 (TID 96) (e713ad479ddf, executor driver, partition 34, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Finished task 31.0 in stage 8.0 (TID 93). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 22.0 in stage 8.0 (TID 84) in 103 ms on e713ad479ddf (executor driver) (25/50)
+25/09/05 09:46:59 INFO Executor: Running task 34.0 in stage 8.0 (TID 96)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 35.0 in stage 8.0 (TID 97) (e713ad479ddf, executor driver, partition 35, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Finished task 29.0 in stage 8.0 (TID 91). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 24.0 in stage 8.0 (TID 86) in 91 ms on e713ad479ddf (executor driver) (26/50)
+25/09/05 09:46:59 INFO Executor: Running task 35.0 in stage 8.0 (TID 97)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 26.0 in stage 8.0 (TID 88) in 91 ms on e713ad479ddf (executor driver) (27/50)
+25/09/05 09:46:59 INFO Executor: Finished task 30.0 in stage 8.0 (TID 92). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 36.0 in stage 8.0 (TID 98) (e713ad479ddf, executor driver, partition 36, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 36.0 in stage 8.0 (TID 98)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 37.0 in stage 8.0 (TID 99) (e713ad479ddf, executor driver, partition 37, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 38.0 in stage 8.0 (TID 100) (e713ad479ddf, executor driver, partition 38, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 37.0 in stage 8.0 (TID 99)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 39.0 in stage 8.0 (TID 101) (e713ad479ddf, executor driver, partition 39, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 40.0 in stage 8.0 (TID 102) (e713ad479ddf, executor driver, partition 40, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 31.0 in stage 8.0 (TID 93) in 65 ms on e713ad479ddf (executor driver) (28/50)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 30.0 in stage 8.0 (TID 92) in 74 ms on e713ad479ddf (executor driver) (29/50)
+25/09/05 09:46:59 INFO Executor: Running task 39.0 in stage 8.0 (TID 101)
+25/09/05 09:46:59 INFO Executor: Running task 38.0 in stage 8.0 (TID 100)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 21.0 in stage 8.0 (TID 83) in 113 ms on e713ad479ddf (executor driver) (30/50)
+25/09/05 09:46:59 INFO Executor: Running task 40.0 in stage 8.0 (TID 102)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 29.0 in stage 8.0 (TID 91) in 76 ms on e713ad479ddf (executor driver) (31/50)
+25/09/05 09:46:59 INFO Executor: Finished task 28.0 in stage 8.0 (TID 90). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 41.0 in stage 8.0 (TID 103) (e713ad479ddf, executor driver, partition 41, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 41.0 in stage 8.0 (TID 103)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 28.0 in stage 8.0 (TID 90) in 87 ms on e713ad479ddf (executor driver) (32/50)
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_32 locally
+25/09/05 09:46:59 INFO Executor: Finished task 32.0 in stage 8.0 (TID 94). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_34 locally
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 42.0 in stage 8.0 (TID 104) (e713ad479ddf, executor driver, partition 42, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_37 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_33 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_38 locally
+25/09/05 09:46:59 INFO Executor: Running task 42.0 in stage 8.0 (TID 104)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 32.0 in stage 8.0 (TID 94) in 69 ms on e713ad479ddf (executor driver) (33/50)
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_35 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_41 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_36 locally
+25/09/05 09:46:59 INFO Executor: Finished task 37.0 in stage 8.0 (TID 99). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 43.0 in stage 8.0 (TID 105) (e713ad479ddf, executor driver, partition 43, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_40 locally
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 37.0 in stage 8.0 (TID 99) in 66 ms on e713ad479ddf (executor driver) (34/50)
+25/09/05 09:46:59 INFO Executor: Running task 43.0 in stage 8.0 (TID 105)
+25/09/05 09:46:59 INFO Executor: Finished task 38.0 in stage 8.0 (TID 100). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 44.0 in stage 8.0 (TID 106) (e713ad479ddf, executor driver, partition 44, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Finished task 33.0 in stage 8.0 (TID 95). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Running task 44.0 in stage 8.0 (TID 106)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 45.0 in stage 8.0 (TID 107) (e713ad479ddf, executor driver, partition 45, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 45.0 in stage 8.0 (TID 107)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 38.0 in stage 8.0 (TID 100) in 76 ms on e713ad479ddf (executor driver) (35/50)
+25/09/05 09:46:59 INFO Executor: Finished task 35.0 in stage 8.0 (TID 97). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 34.0 in stage 8.0 (TID 96). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 33.0 in stage 8.0 (TID 95) in 87 ms on e713ad479ddf (executor driver) (36/50)
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 46.0 in stage 8.0 (TID 108) (e713ad479ddf, executor driver, partition 46, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 47.0 in stage 8.0 (TID 109) (e713ad479ddf, executor driver, partition 47, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO Executor: Running task 46.0 in stage 8.0 (TID 108)
+25/09/05 09:46:59 INFO Executor: Running task 47.0 in stage 8.0 (TID 109)
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_42 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_39 locally
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 35.0 in stage 8.0 (TID 97) in 95 ms on e713ad479ddf (executor driver) (37/50)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 34.0 in stage 8.0 (TID 96) in 97 ms on e713ad479ddf (executor driver) (38/50)
+25/09/05 09:46:59 INFO Executor: Finished task 40.0 in stage 8.0 (TID 102). 4658 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 48.0 in stage 8.0 (TID 110) (e713ad479ddf, executor driver, partition 48, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 40.0 in stage 8.0 (TID 102) in 95 ms on e713ad479ddf (executor driver) (39/50)
+25/09/05 09:46:59 INFO Executor: Running task 48.0 in stage 8.0 (TID 110)
+25/09/05 09:46:59 INFO BlockManagerInfo: Removed broadcast_8_piece0 on e713ad479ddf:39217 in memory (size: 163.8 KiB, free: 434.2 MiB)
+25/09/05 09:46:59 INFO Executor: Finished task 36.0 in stage 8.0 (TID 98). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Starting task 49.0 in stage 8.0 (TID 111) (e713ad479ddf, executor driver, partition 49, PROCESS_LOCAL, 7604 bytes) 
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 36.0 in stage 8.0 (TID 98) in 104 ms on e713ad479ddf (executor driver) (40/50)
+25/09/05 09:46:59 INFO Executor: Finished task 39.0 in stage 8.0 (TID 101). 4658 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 41.0 in stage 8.0 (TID 103). 4615 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Running task 49.0 in stage 8.0 (TID 111)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 39.0 in stage 8.0 (TID 101) in 110 ms on e713ad479ddf (executor driver) (41/50)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 41.0 in stage 8.0 (TID 103) in 104 ms on e713ad479ddf (executor driver) (42/50)
+25/09/05 09:46:59 INFO Executor: Finished task 42.0 in stage 8.0 (TID 104). 4658 bytes result sent to driver
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_43 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_46 locally
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 42.0 in stage 8.0 (TID 104) in 81 ms on e713ad479ddf (executor driver) (43/50)
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_44 locally
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_47 locally
+25/09/05 09:46:59 INFO Executor: Finished task 46.0 in stage 8.0 (TID 108). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 43.0 in stage 8.0 (TID 105). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_48 locally
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 46.0 in stage 8.0 (TID 108) in 58 ms on e713ad479ddf (executor driver) (44/50)
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_45 locally
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 43.0 in stage 8.0 (TID 105) in 74 ms on e713ad479ddf (executor driver) (45/50)
+25/09/05 09:46:59 INFO Executor: Finished task 44.0 in stage 8.0 (TID 106). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 44.0 in stage 8.0 (TID 106) in 69 ms on e713ad479ddf (executor driver) (46/50)
+25/09/05 09:46:59 INFO Executor: Finished task 47.0 in stage 8.0 (TID 109). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO BlockManager: Found block rdd_21_49 locally
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 47.0 in stage 8.0 (TID 109) in 65 ms on e713ad479ddf (executor driver) (47/50)
+25/09/05 09:46:59 INFO Executor: Finished task 45.0 in stage 8.0 (TID 107). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO Executor: Finished task 48.0 in stage 8.0 (TID 110). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 45.0 in stage 8.0 (TID 107) in 72 ms on e713ad479ddf (executor driver) (48/50)
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 48.0 in stage 8.0 (TID 110) in 53 ms on e713ad479ddf (executor driver) (49/50)
+25/09/05 09:46:59 INFO Executor: Finished task 49.0 in stage 8.0 (TID 111). 4572 bytes result sent to driver
+25/09/05 09:46:59 INFO TaskSetManager: Finished task 49.0 in stage 8.0 (TID 111) in 51 ms on e713ad479ddf (executor driver) (50/50)
+25/09/05 09:46:59 INFO TaskSchedulerImpl: Removed TaskSet 8.0, whose tasks have all completed, from pool 
+25/09/05 09:46:59 INFO DAGScheduler: ShuffleMapStage 8 ($anonfun$recordDeltaOperationInternal$1 at DatabricksLogging.scala:128) finished in 0.489 s
+25/09/05 09:46:59 INFO DAGScheduler: looking for newly runnable stages
+25/09/05 09:46:59 INFO DAGScheduler: running: Set()
+25/09/05 09:46:59 INFO DAGScheduler: waiting: Set()
+25/09/05 09:46:59 INFO DAGScheduler: failed: Set()
+25/09/05 09:47:00 INFO SparkContext: Starting job: $anonfun$recordDeltaOperationInternal$1 at DatabricksLogging.scala:128
+25/09/05 09:47:00 INFO DAGScheduler: Got job 6 ($anonfun$recordDeltaOperationInternal$1 at DatabricksLogging.scala:128) with 1 output partitions
+25/09/05 09:47:00 INFO DAGScheduler: Final stage: ResultStage 11 ($anonfun$recordDeltaOperationInternal$1 at DatabricksLogging.scala:128)
+25/09/05 09:47:00 INFO DAGScheduler: Parents of final stage: List(ShuffleMapStage 10)
+25/09/05 09:47:00 INFO DAGScheduler: Missing parents: List()
+25/09/05 09:47:00 INFO DAGScheduler: Submitting ResultStage 11 (MapPartitionsRDD[33] at $anonfun$recordDeltaOperationInternal$1 at DatabricksLogging.scala:128), which has no missing parents
+25/09/05 09:47:00 INFO MemoryStore: Block broadcast_10 stored as values in memory (estimated size 530.6 KiB, free 432.7 MiB)
+25/09/05 09:47:00 INFO MemoryStore: Block broadcast_10_piece0 stored as bytes in memory (estimated size 123.6 KiB, free 432.6 MiB)
+25/09/05 09:47:00 INFO BlockManagerInfo: Added broadcast_10_piece0 in memory on e713ad479ddf:39217 (size: 123.6 KiB, free: 434.1 MiB)
+25/09/05 09:47:00 INFO SparkContext: Created broadcast 10 from broadcast at DAGScheduler.scala:1585
+25/09/05 09:47:00 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 11 (MapPartitionsRDD[33] at $anonfun$recordDeltaOperationInternal$1 at DatabricksLogging.scala:128) (first 15 tasks are for partitions Vector(0))
+25/09/05 09:47:00 INFO TaskSchedulerImpl: Adding task set 11.0 with 1 tasks resource profile 0
+25/09/05 09:47:00 INFO TaskSetManager: Starting task 0.0 in stage 11.0 (TID 112) (e713ad479ddf, executor driver, partition 0, NODE_LOCAL, 7615 bytes) 
+25/09/05 09:47:00 INFO Executor: Running task 0.0 in stage 11.0 (TID 112)
+25/09/05 09:47:00 INFO ShuffleBlockFetcherIterator: Getting 50 (5.0 KiB) non-empty blocks including 50 (5.0 KiB) local and 0 (0.0 B) host-local and 0 (0.0 B) push-merged-local and 0 (0.0 B) remote blocks
+25/09/05 09:47:00 INFO ShuffleBlockFetcherIterator: Started 0 remote fetches in 0 ms
+25/09/05 09:47:00 INFO CodeGenerator: Code generated in 2.150292 ms
+25/09/05 09:47:00 INFO CodeGenerator: Code generated in 4.644833 ms
+25/09/05 09:47:00 INFO Executor: Finished task 0.0 in stage 11.0 (TID 112). 7169 bytes result sent to driver
+25/09/05 09:47:00 INFO TaskSetManager: Finished task 0.0 in stage 11.0 (TID 112) in 25 ms on e713ad479ddf (executor driver) (1/1)
+25/09/05 09:47:00 INFO TaskSchedulerImpl: Removed TaskSet 11.0, whose tasks have all completed, from pool 
+25/09/05 09:47:00 INFO DAGScheduler: ResultStage 11 ($anonfun$recordDeltaOperationInternal$1 at DatabricksLogging.scala:128) finished in 0.030 s
+25/09/05 09:47:00 INFO DAGScheduler: Job 6 is finished. Cancelling potential speculative or zombie tasks for this job
+25/09/05 09:47:00 INFO TaskSchedulerImpl: Killing all running tasks in stage 11: Stage finished
+25/09/05 09:47:00 INFO DAGScheduler: Job 6 finished: $anonfun$recordDeltaOperationInternal$1 at DatabricksLogging.scala:128, took 0.031458 s
+25/09/05 09:47:00 INFO CodeGenerator: Code generated in 7.989625 ms
+25/09/05 09:47:00 INFO Snapshot: [tableId=c9fb70e3-9439-4f54-a63a-e39d89a6b948] DELTA: Done
+25/09/05 09:47:00 INFO FileSourceStrategy: Pushed Filters: 
+25/09/05 09:47:00 INFO FileSourceStrategy: Post-Scan Filters: 
+25/09/05 09:47:00 INFO CodeGenerator: Code generated in 3.616125 ms
+25/09/05 09:47:00 INFO MemoryStore: Block broadcast_11 stored as values in memory (estimated size 202.1 KiB, free 432.4 MiB)
+25/09/05 09:47:00 INFO MemoryStore: Block broadcast_11_piece0 stored as bytes in memory (estimated size 35.2 KiB, free 432.3 MiB)
+25/09/05 09:47:00 INFO BlockManagerInfo: Added broadcast_11_piece0 in memory on e713ad479ddf:39217 (size: 35.2 KiB, free: 434.0 MiB)
+25/09/05 09:47:00 INFO SparkContext: Created broadcast 11 from showString at <unknown>:0
+25/09/05 09:47:00 INFO FileSourceScanExec: Planning scan with bin packing, max size: 4194304 bytes, open cost is considered as scanning 4194304 bytes.
+25/09/05 09:47:00 INFO SparkContext: Starting job: showString at <unknown>:0
+25/09/05 09:47:00 INFO DAGScheduler: Got job 7 (showString at <unknown>:0) with 1 output partitions
+25/09/05 09:47:00 INFO DAGScheduler: Final stage: ResultStage 12 (showString at <unknown>:0)
+25/09/05 09:47:00 INFO DAGScheduler: Parents of final stage: List()
+25/09/05 09:47:00 INFO DAGScheduler: Missing parents: List()
+25/09/05 09:47:00 INFO DAGScheduler: Submitting ResultStage 12 (MapPartitionsRDD[37] at showString at <unknown>:0), which has no missing parents
+25/09/05 09:47:00 INFO MemoryStore: Block broadcast_12 stored as values in memory (estimated size 19.9 KiB, free 432.3 MiB)
+25/09/05 09:47:00 INFO MemoryStore: Block broadcast_12_piece0 stored as bytes in memory (estimated size 8.0 KiB, free 432.3 MiB)
+25/09/05 09:47:00 INFO BlockManagerInfo: Added broadcast_12_piece0 in memory on e713ad479ddf:39217 (size: 8.0 KiB, free: 434.0 MiB)
+25/09/05 09:47:00 INFO SparkContext: Created broadcast 12 from broadcast at DAGScheduler.scala:1585
+25/09/05 09:47:00 INFO DAGScheduler: Submitting 1 missing tasks from ResultStage 12 (MapPartitionsRDD[37] at showString at <unknown>:0) (first 15 tasks are for partitions Vector(0))
+25/09/05 09:47:00 INFO TaskSchedulerImpl: Adding task set 12.0 with 1 tasks resource profile 0
+25/09/05 09:47:00 INFO TaskSetManager: Starting task 0.0 in stage 12.0 (TID 113) (e713ad479ddf, executor driver, partition 0, PROCESS_LOCAL, 8273 bytes) 
+25/09/05 09:47:00 INFO Executor: Running task 0.0 in stage 12.0 (TID 113)
+25/09/05 09:47:00 INFO CodeGenerator: Code generated in 2.0065 ms
+25/09/05 09:47:00 INFO FileScanRDD: Reading File path: file:/warehouse/events/cust/part-00000-1cd4e7f1-86f7-4af9-adbe-7eea8394b338-c000.snappy.parquet, range: 0-13800, partition values: [empty row]
+25/09/05 09:47:00 INFO CodecPool: Got brand-new decompressor [.snappy]
+25/09/05 09:47:00 INFO Executor: Finished task 0.0 in stage 12.0 (TID 113). 2293 bytes result sent to driver
+25/09/05 09:47:00 INFO TaskSetManager: Finished task 0.0 in stage 12.0 (TID 113) in 187 ms on e713ad479ddf (executor driver) (1/1)
+25/09/05 09:47:00 INFO TaskSchedulerImpl: Removed TaskSet 12.0, whose tasks have all completed, from pool 
+25/09/05 09:47:00 INFO DAGScheduler: ResultStage 12 (showString at <unknown>:0) finished in 0.197 s
+25/09/05 09:47:00 INFO DAGScheduler: Job 7 is finished. Cancelling potential speculative or zombie tasks for this job
+25/09/05 09:47:00 INFO TaskSchedulerImpl: Killing all running tasks in stage 12: Stage finished
+25/09/05 09:47:00 INFO DAGScheduler: Job 7 finished: showString at <unknown>:0, took 0.198762 s
+25/09/05 09:47:00 INFO CodeGenerator: Code generated in 1.89725 ms
++-----------+--------------+---------+
+|customer_id|customer_name |city     |
++-----------+--------------+---------+
+|C0002      |Anisha Koirala|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0019      |Asha Neupane  |Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0002      |Anisha Koirala|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
+|C0007      |Laxmi Bhandari|Kathmandu|
++-----------+--------------+---------+
+
+root
+ |-- sale_id: integer (nullable = true)
+ |-- customer_id: string (nullable = true)
+ |-- customer_name: string (nullable = true)
+ |-- gender: string (nullable = true)
+ |-- age: integer (nullable = true)
+ |-- email: string (nullable = true)
+ |-- phone_number: string (nullable = true)
+ |-- city: string (nullable = true)
+ |-- loyalty_tier: string (nullable = true)
+ |-- store_name: string (nullable = true)
+ |-- product_name: string (nullable = true)
+ |-- supplier_name: string (nullable = true)
+ |-- employee_name: string (nullable = true)
+ |-- quantity: integer (nullable = true)
+ |-- unit_price: double (nullable = true)
+ |-- total_sales: double (nullable = true)
+ |-- coupon_code: string (nullable = true)
+ |-- discount_percent: integer (nullable = true)
+ |-- return_policy: string (nullable = true)
+ |-- warranty: string (nullable = true)
+ |-- customer_frequency: string (nullable = true)
+ |-- mode: string (nullable = true)
+ |-- sale_date: string (nullable = true)
+ |-- sale_time: string (nullable = true)
+ |-- ingest_date: string (nullable = true)
+
+Press Enter to exit and stop Spark...
