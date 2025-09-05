@@ -1,0 +1,2 @@
+Without Dockerfile → less setup at first, but every container start means re-installing packages.
+With Dockerfile → a bit more setup initially, but you get a portable, repeatable Spark+Delta environment.

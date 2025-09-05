@@ -1,0 +1,22 @@
+version: "3.8"
+
+services:
+  spark:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    container_name: spark-delta
+    working_dir: /app
+    command: ["sleep", "infinity"]
+    volumes:
+      - ./app:/app
+      - ./data:/data
+      - ./warehouse:/warehouse
+    environment:
+      # Make delta extensions available without extra flags
+      - SPARK_OPTS=--conf spark.sql.extensions=io.delta.sql.DeltaSparkSessionExtension
+        --conf spark.sql.catalog.spark_catalog=org.apache.spark.sql.delta.catalog.DeltaCatalog
+      # Tweak for local runs (adjust cores/memory if needed)
+      - PYSPARK_PYTHON=python3
+    ports:
+      - "4040:4040"   # Spark UI for local jobs

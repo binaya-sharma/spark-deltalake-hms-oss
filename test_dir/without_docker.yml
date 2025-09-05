@@ -1,0 +1,36 @@
+services:
+  mysql:
+    image: mysql:8
+    environment:
+      MYSQL_DATABASE: metastore
+      MYSQL_USER: hive
+      MYSQL_PASSWORD: hivepw
+      MYSQL_ROOT_PASSWORD: rootpw
+    ports: ["3306:3306"]
+
+  hive-metastore:
+    image: apache/hive:standalone-metastore:4.1.0
+    container_name: hive-metastore
+    depends_on:
+      - mysql
+    ports: ["9083:9083"]
+    environment:
+      SERVICE_NAME: metastore
+    volumes:
+      - ./conf/hive-site.xml:/opt/hive/conf/hive-site.xml:ro
+      - ./jars/mysql-connector-j-8.4.0.jar:/opt/hive/lib/mysql-connector-j-8.4.0.jar:ro
+      - ./data:/data
+
+  spark:
+    image: apache/spark:4.0.0
+    container_name: spark-delta
+    working_dir: /app
+    command: ["sleep", "infinity"]
+    volumes:
+      - ./app:/app
+      - ./data:/data
+    ports: ["4040:4040"]
+
+networks:
+  default:
+    name: sparknet
