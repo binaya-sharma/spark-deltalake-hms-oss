@@ -15,7 +15,10 @@ builder = (
     .config("spark.jars.packages", "io.delta:delta-spark_2.12:3.1.0")
     .config("spark.ui.port", "4040")
     .config("spark.sql.shuffle.partitions", "1")
+    .config("spark.databricks.delta.properties.defaults.enableDeletionVectors", "true")  # enable DVs by default
+    .config("spark.databricks.delta.deletionVectors.enabled", "true")  # enable DVs in session
 )
+spark = builder.getOrCreate()
 
 spark = configure_spark_with_delta_pip(builder).getOrCreate()
 
@@ -70,7 +73,29 @@ df_ktm_read = spark.read.format("delta").load(CUST_DELTA_PATH)
 # print the schema of the read DataFrame
 df_ktm_read.printSchema()
 
-spark.sql(" SELECT * FROM delta.`/warehouse/events/cust` WHERE city='Kathmandu' ").show()
+#spark.sql(" Update delta.`/warehouse/events/cust` set city='KathmanduNP' WHERE city='Kathmandu' ")
+spark.sql(" Select customer_id, customer_name, gender, age, city from delta.`/warehouse/events/cust` ").show(df.count(), truncate=False)
+
+
+#Deletion vector enabled
+spark.sql("""
+ALTER TABLE delta.`/warehouse/events/cust`
+SET TBLPROPERTIES ('delta.enableDeletionVectors' = 'true')""")
+
+spark.sql(" Delete from delta.`/warehouse/events/cust` WHERE customer_id='C0002' ") 
+
+# Show the history of changes made to the Delta table
+describe_history = spark.sql("DESCRIBE HISTORY delta.`/warehouse/events/cust` ")
+
+describe_history.select(
+    "version",
+    "timestamp",
+    "operation",
+    "operationParameters",
+    "userName"
+).show(truncate=False)
+
+spark.sql(" Select customer_id, customer_name, gender, age, city from delta.`/warehouse/events/cust` ").show(df.count(), truncate=False)
 
 
 input("Press Enter to exit and stop Spark...")
