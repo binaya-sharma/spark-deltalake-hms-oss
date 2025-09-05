@@ -73,10 +73,5 @@ df_ktm_read.printSchema()
 spark.sql(" SELECT * FROM delta.`/warehouse/events/cust` WHERE city='Kathmandu' ").show()
 
 
-
-
-
-
-
 input("Press Enter to exit and stop Spark...")
 spark.stop()
