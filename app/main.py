@@ -65,10 +65,12 @@ df_city_ktm = df.filter(col("city") == "Kathmandu").withColumn("ingest_date", li
 
 # read back the data from the Delta table and show the results
 df_ktm_read = spark.read.format("delta").load(CUST_DELTA_PATH)
-df_ktm_read.select("customer_id","customer_name","city").show(df.count(), truncate=False)
+#df_ktm_read.select("customer_id","customer_name","city").show(df.count(), truncate=False)
 
 # print the schema of the read DataFrame
 df_ktm_read.printSchema()
+
+spark.sql(" SELECT * FROM delta.`/warehouse/events/cust` WHERE city='Kathmandu' ").show()
 
 
 
