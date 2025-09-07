@@ -1,7 +1,8 @@
 from pyspark.sql import SparkSession
 from delta import configure_spark_with_delta_pip
-from pyspark.sql.functions import col, lit
 from pyspark.sql.types import *
+from pyspark.sql.functions import col, lit
+
 
 WAREHOUSE_DIR = "/warehouse"         # mounted local path for managed tables
 CUST_DELTA_PATH = "/warehouse/events/cust"  #different transformation have different path to preserve schema and data
